@@ -73,6 +73,8 @@ DocumentUniqueId=NFOLGHOG
 
 [Document3]
 DocumentPath=MyProSch1.SchDoc
+
+
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -90,6 +92,50 @@ DocumentUniqueId=YGLKFOKS
 
 [Document4]
 DocumentPath=MyProSch3.SchDoc
+
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+
+
+
+AnnotateOrder=1
+
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=UALGABVQ
+
+
+[Document4]
+DocumentPath=MyProSch3.SchDoc
+
+[Document5]
+DocumentPath=MyProSch4.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=2
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=SPYUXBTW
+
+
+
+
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -103,6 +149,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
+<<<<<< HEAD
 DocumentUniqueId=UALGABVQ
 
 [Document5]
@@ -121,6 +168,9 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SPYUXBTW
+=======
+DocumentUniqueId=PWTJATAN
+>>>>>>> Mybranch
 
 [Configuration1]
 Name=Sources
