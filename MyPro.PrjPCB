@@ -73,7 +73,7 @@ DocumentUniqueId=NFOLGHOG
 
 [Document3]
 DocumentPath=MyProSch1.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -107,7 +107,7 @@ DocumentUniqueId=UALGABVQ
 
 [Document5]
 DocumentPath=MyProSch4.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
