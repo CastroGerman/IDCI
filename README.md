@@ -1,2 +1,0 @@
-# IDCI
-LPC1769+ESP32 Board
