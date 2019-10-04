@@ -1,5 +1,5 @@
 ------------------------------------------------------------------------------------------
-Gerber File Extension Report For: MyPro.GBR   04/10/2019  14:33:51
+Gerber File Extension Report For: MyPro.GBR   04/10/2019  15:36:45
 ------------------------------------------------------------------------------------------
 
 
@@ -7,6 +7,9 @@ Gerber File Extension Report For: MyPro.GBR   04/10/2019  14:33:51
 Layer Extension     Layer Description                      
 ------------------------------------------------------------------------------------------
 .GTO                Top Overlay                             
+.GTS                Top Solder                              
 .GTL                Top Layer                               
 .GBL                Bottom Layer                            
+.GBS                Bottom Solder                           
+.GM1                Mechanical 1                            
 ------------------------------------------------------------------------------------------
