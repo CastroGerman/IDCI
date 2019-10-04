@@ -1,0 +1,89 @@
+Altium Designer Pick and Place Locations
+C:\Users\German\Documents\Altium\IDCI\Project Outputs for MyPro\Pick Place for MyPro.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       04/10/19
+Time:       14:36
+Revision:   04abf555b17a156266a6fa2e2a11b2d303797cad
+Variant:    No variations
+Units used: mil
+
+Designator Comment          Layer    Footprint               Center-X(mil) Center-Y(mil) Rotation Description                  
+TP0        TestPoint        TopLayer TestPoint               440.000       3185.000      90       ""                           
+J5         "JTAG Header_1"  TopLayer HDRM_2.54MM_1X8         120.000       2085.000      270      ""                           
+J4         "JTAG Header_1"  TopLayer HDRM_2.54MM_1X8         120.000       2905.000      270      ""                           
+J8         Connector        TopLayer HDRM_0.1_1X4            565.000       765.000       360      ""                           
+J7         "JTAG Header_1"  TopLayer HDRM_2.54MM_1X8         120.000       1270.000      270      ""                           
+J6         "JTAG Header_1"  TopLayer HDRM_2.54MM_1X8         120.000       455.315       270      ""                           
+U1         LPC1769          TopLayer LQFP100                 825.000       1500.000      270      "32 bit ARM Cortex M3"       
+C32        "220uF 6.3V 20%" TopLayer CT_2917_D               618.307       2915.000      360      ""                           
+J2         "JTAG Header_1"  TopLayer HDRM_2.54MM_1X8         1945.000      1655.000      90       ""                           
+U2         ESP32WROOM       TopLayer ESP32_WROOM_-_DUPLICATE 1575.000      700.000       180      ""                           
+Y1         "ABM8W 12MHz"    TopLayer ABM8W                   508.504       2028.110      90       Crystal                      
+R6         "10K 5%"         TopLayer R_0805                  1620.000      1292.598      270      Resistor                     
+C24        "0.1uF 50V 10%"  TopLayer C_0805                  1530.000      1292.598      90       Capacitor                    
+C23        "100nF 16V Y5R"  TopLayer C_0805                  1800.000      1292.598      90       Capacitor                    
+C22        "10uF 16V Y5R"   TopLayer C_0805                  1710.000      1292.598      90       Capacitor                    
+C21        "18pF 16V C0G"   TopLayer C_0805                  630.000       2027.205      270      Capacitor                    
+C20        "18pF 16V C0G"   TopLayer C_0805                  390.000       2027.205      90       Capacitor                    
+R5         "10KO 1%"        TopLayer R_0805                  629.685       977.402       90       Resistor                     
+R4         "10KO 1%"        TopLayer R_0805                  720.000       532.598       90       Resistor                     
+R3         "10KO 1%"        TopLayer R_0805                  900.000       532.598       90       Resistor                     
+R2         "10KO 1%"        TopLayer R_0805                  1260.000      2027.401      270      Resistor                     
+R1         "10KO 1%"        TopLayer R_0805                  810.000       532.598       90       Resistor                     
+C19        "10nF 16V Y5R"   TopLayer C_0805                  990.000       2027.205      90       Capacitor                    
+C18        "100nF 16V Y5R"  TopLayer C_0805                  900.000       2027.205      90       Capacitor                    
+C17        "10nF 16V Y5R"   TopLayer C_0805                  810.000       2027.205      90       Capacitor                    
+C16        "100nF 16V Y5R"  TopLayer C_0805                  720.000       2027.205      90       Capacitor                    
+C15        "10nF 16V Y5R"   TopLayer C_0805                  1080.000      2027.205      90       Capacitor                    
+C14        "100nF 16V Y5R"  TopLayer C_0805                  1170.000      2027.205      90       Capacitor                    
+C13        "10nF 16V Y5R"   TopLayer C_0805                  1350.000      1292.401      90       Capacitor                    
+C12        "100nF 16V Y5R"  TopLayer C_0805                  1440.000      1292.401      90       Capacitor                    
+C11        "10nF 16V Y5R"   TopLayer C_0805                  370.000       1537.205      90       Capacitor                    
+C10        "100nF 16V Y5R"  TopLayer C_0805                  280.000       1537.205      90       Capacitor                    
+C9         "10nF 16V Y5R"   TopLayer C_0805                  1260.000      1537.598      270      Capacitor                    
+C8         "100nF 16V Y5R"  TopLayer C_0805                  1260.000      1782.401      90       Capacitor                    
+C7         "10nF 16V Y5R"   TopLayer C_0805                  989.685       977.402       270      Capacitor                    
+C6         "100nF 16V Y5R"  TopLayer C_0805                  899.685       977.402       270      Capacitor                    
+C5         "10nF 16V Y5R"   TopLayer C_0805                  719.685       977.402       270      Capacitor                    
+C4         "100nF 16V Y5R"  TopLayer C_0805                  809.685       977.402       270      Capacitor                    
+C3         "10nF 16V Y5R"   TopLayer C_0805                  370.000       1782.401      270      Capacitor                    
+C2         "100nF 16V Y5R"  TopLayer C_0805                  280.000       1782.598      270      Capacitor                    
+C1         "100nF 16V Y5R"  TopLayer C_0805                  630.000       532.598       90       Capacitor                    
+Q2         TBJ              TopLayer SOT-23                  1575.000      1794.803      360      ""                           
+Q1         TBJ              TopLayer SOT-23                  1395.000      1544.803      360      ""                           
+J1         "JTAG Header"    TopLayer HDRM_2.54MM_1X8         765.000       385.000       180      ""                           
+U3         FT231XS          TopLayer SSOP_20                 1592.500      2073.303      90       FT231XS                      
+R16        "470R 5%"        TopLayer R_0805                  1800.000      1537.401      90       Resistor                     
+R15        "470R 5%"        TopLayer R_0805                  1710.000      1537.401      90       Resistor                     
+R14        "15K 5%"         TopLayer R_0805                  1720.000      2387.401      90       Resistor                     
+R13        "12K 1%"         TopLayer R_0805                  1530.000      1537.401      90       Resistor                     
+R12        "10K 5%"         TopLayer R_0805                  1540.000      2387.401      270      Resistor                     
+R11        "12K 1%"         TopLayer R_0805                  1620.000      1537.401      270      Resistor                     
+R10        "27R 5%"         TopLayer R_0805                  1540.000      2632.401      270      Resistor                     
+R9         "1K 5%"          TopLayer R_0805                  1440.000      1782.401      270      Resistor                     
+R8         "27R 5%"         TopLayer R_0805                  1630.000      2632.401      270      Resistor                     
+R7         "1K 5%"          TopLayer R_0805                  1350.000      1782.401      270      Resistor                     
+L2         Red              TopLayer LED_0805                1800.000      1779.016      270      "Red LED"                    
+L1         Green            TopLayer LED_0805                1710.000      1779.016      270      "Green LED"                  
+J3         "USB MICRO AB"   TopLayer USB_MICRO_F_AB          1574.724      3142.343      180      ""                           
+C30        "100nF 16V X7R"  TopLayer C_0805                  1810.000      2387.401      90       Capacitor                    
+C29        "100nF 16V X7R"  TopLayer C_0805                  1450.000      2387.401      90       Capacitor                    
+C28        "4.7uF 6.3V X5R" TopLayer C_0805                  1360.000      2387.401      90       Capacitor                    
+C27        "10nF 16V N7R"   TopLayer C_0805                  1630.000      2387.401      90       Capacitor                    
+C26        "47pF 50V C0G"   TopLayer C_0805                  1450.000      2632.401      270      Capacitor                    
+C25        "47pF 50V C0G"   TopLayer C_0805                  1720.000      2632.401      270      Capacitor                    
+D2         BAT60J           TopLayer SOD323                  780.000       2741.693      270      "Generic Diode"              
+U4         A5972D           TopLayer SO_8                    930.000       2870.000      90       "Fuente Switching 3.3v 1.5A" 
+R19        "3.6KO 1%"       TopLayer R_0805                  930.000       2632.598      270      Resistor                     
+R18        "5.49KO 1%"      TopLayer R_0805                  810.000       3102.401      90       Resistor                     
+R17        "9.1KO 1%"       TopLayer R_0805                  720.000       3102.401      270      Resistor                     
+L3         "8.2uH 20%"      TopLayer 1R5_1710                607.323       2700.000      180      Inductor                     
+J9         "Power Supply"   TopLayer HDRM_0.1_1X2            1185.000      3085.000      270      ""                           
+D1         BAT60J           TopLayer SOD323                  1070.000      3095.000      90       "Generic Diode"              
+C35        "330pF 16V C0G"  TopLayer C_0805                  1020.000      2632.598      90       Capacitor                    
+C34        "27nF 16V Y5R"   TopLayer C_0805                  1110.000      2632.598      270      Capacitor                    
+C33        "100nF 16V Y5R"  TopLayer C_0805                  990.000       3102.401      270      Capacitor                    
+C31        "10uF 16V Y5R"   TopLayer C_0805                  900.000       3102.401      270      Capacitor                    
